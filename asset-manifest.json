@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mdev-ReactWebPortofolio/static/css/main.feac8c7d.css",
+    "main.js": "/Mdev-ReactWebPortofolio/static/js/main.a5cfc6bb.js",
+    "static/media/about.png": "/Mdev-ReactWebPortofolio/static/media/about.5cc0998cf59926a05b4c.png",
+    "static/media/mahenn.png": "/Mdev-ReactWebPortofolio/static/media/mahenn.5cc0998cf59926a05b4c.png",
+    "static/media/mahenCV.pdf": "/Mdev-ReactWebPortofolio/static/media/mahenCV.859ba80511843c025187.pdf",
+    "index.html": "/Mdev-ReactWebPortofolio/index.html",
+    "main.feac8c7d.css.map": "/Mdev-ReactWebPortofolio/static/css/main.feac8c7d.css.map",
+    "main.a5cfc6bb.js.map": "/Mdev-ReactWebPortofolio/static/js/main.a5cfc6bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feac8c7d.css",
+    "static/js/main.a5cfc6bb.js"
+  ]
+}
