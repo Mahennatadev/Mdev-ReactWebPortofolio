@@ -1,13 +1,26 @@
-import React from "react";
+import React, { useRef } from "react";
+import emailjs from "@emailjs/browser";
+import "./contact.css";
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs
+      .sendForm("service_14spy76", "template_kx1eqds", form.current, {
+        publicKey: "Coa06TJg7T-Y1hMNw",
+      })
+      e.target.reset()
+  };
   return (
     <section className="contact section" id="contact">
       <h2 className="section__title">Get in touch</h2>
       <span className="section__subtitle">Contact Me</span>
 
       <div className="contact__container container grid">
-        <div className="container__content">
+        <div className="contact__content">
           <h3 className="contact__title">Talk to me</h3>
 
           <div className="contact__info">
@@ -15,7 +28,7 @@ const Contact = () => {
               <i className="bx bx-mail-send contact__card-icon"></i>
 
               <h3 className="contact__card-title">Email</h3>
-              <span className="contact__card-data">natawahyu03@gmail.com</span>
+              <span className="contact__card-data">user@gmail.com</span>
 
               <a
                 href="mailto:natawahyu03@gmail.com"
@@ -45,7 +58,7 @@ const Contact = () => {
               <i className="bx bxl-facebook contact__card-icon"></i>
 
               <h3 className="contact__card-title">Facebook</h3>
-              <span className="contact__card-data">Wahyu Nata Mahendra</span>
+              <span className="contact__card-data">username</span>
 
               <a
                 href="https://www.facebook.com/profile.php?id=100083156835096"
@@ -58,10 +71,10 @@ const Contact = () => {
           </div>
         </div>
 
-        <div className="container__content">
+        <div className="contact__content">
           <h3 className="contact__title">Write me your project</h3>
 
-          <form className="contact__form">
+          <form ref={form} onSubmit={sendEmail} className="contact__form">
             <div className="contact__form-div">
               <label className="contact__form-tag">Name</label>
               <input
@@ -82,7 +95,7 @@ const Contact = () => {
               />
             </div>
 
-            <div className="contact__form-div">
+            <div className="contact__form-div contact__form-area">
               <label className="contact__form-tag">Project</label>
               <textarea
                 name="project"
@@ -94,7 +107,7 @@ const Contact = () => {
             </div>
 
             <button className="button button--flex">
-              Say Hello!
+              Send Message
               <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
