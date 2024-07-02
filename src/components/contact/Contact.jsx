@@ -33,6 +33,7 @@ const Contact = () => {
               <a
                 href="mailto:natawahyu03@gmail.com"
                 className="contact__button"
+                target="_blank" rel="noopener noreferrer"
               >
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
@@ -48,6 +49,7 @@ const Contact = () => {
               <a
                 href="https://wa.me/+6282373692957"
                 className="contact__button"
+                target="_blank" rel="noopener noreferrer"
               >
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
@@ -63,6 +65,7 @@ const Contact = () => {
               <a
                 href="https://www.facebook.com/profile.php?id=100083156835096"
                 className="contact__button"
+                target="_blank" rel="noopener noreferrer"
               >
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
