@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/Mdev-ReactWebPortofolio/static/css/main.feac8c7d.css",
-    "main.js": "/Mdev-ReactWebPortofolio/static/js/main.a5cfc6bb.js",
+    "main.css": "/Mdev-ReactWebPortofolio/static/css/main.efa66316.css",
+    "main.js": "/Mdev-ReactWebPortofolio/static/js/main.4054b02b.js",
+    "static/media/testimonial3.png": "/Mdev-ReactWebPortofolio/static/media/testimonial3.1843ed4d8d7e5a2b8283.png",
     "static/media/about.png": "/Mdev-ReactWebPortofolio/static/media/about.5cc0998cf59926a05b4c.png",
     "static/media/mahenn.png": "/Mdev-ReactWebPortofolio/static/media/mahenn.5cc0998cf59926a05b4c.png",
-    "static/media/mahenCV.pdf": "/Mdev-ReactWebPortofolio/static/media/mahenCV.859ba80511843c025187.pdf",
+    "static/media/work2.jpg": "/Mdev-ReactWebPortofolio/static/media/work2.3b61865f6d3ff9bea5ce.jpg",
+    "static/media/work4.jpg": "/Mdev-ReactWebPortofolio/static/media/work4.07bb91e160647101d05b.jpg",
+    "static/media/work1.jpg": "/Mdev-ReactWebPortofolio/static/media/work1.5098e575d2deb3ee12b1.jpg",
+    "static/media/testimonial2.png": "/Mdev-ReactWebPortofolio/static/media/testimonial2.8c28987e64953c37fdf4.png",
+    "static/media/work3.jpg": "/Mdev-ReactWebPortofolio/static/media/work3.3b07b3326e5753cb6b6f.jpg",
+    "static/media/CVMahenDev.pdf": "/Mdev-ReactWebPortofolio/static/media/CVMahenDev.bf5e610bd153b5705a47.pdf",
+    "static/media/testimonial1.png": "/Mdev-ReactWebPortofolio/static/media/testimonial1.d4e0ddee2e19f73d74f3.png",
     "index.html": "/Mdev-ReactWebPortofolio/index.html",
-    "main.feac8c7d.css.map": "/Mdev-ReactWebPortofolio/static/css/main.feac8c7d.css.map",
-    "main.a5cfc6bb.js.map": "/Mdev-ReactWebPortofolio/static/js/main.a5cfc6bb.js.map"
+    "main.efa66316.css.map": "/Mdev-ReactWebPortofolio/static/css/main.efa66316.css.map",
+    "main.4054b02b.js.map": "/Mdev-ReactWebPortofolio/static/js/main.4054b02b.js.map"
   },
   "entrypoints": [
-    "static/css/main.feac8c7d.css",
-    "static/js/main.a5cfc6bb.js"
+    "static/css/main.efa66316.css",
+    "static/js/main.4054b02b.js"
   ]
 }
