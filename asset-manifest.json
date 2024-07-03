@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mdev-ReactWebPortofolio/static/css/main.efa66316.css",
-    "main.js": "/Mdev-ReactWebPortofolio/static/js/main.4054b02b.js",
+    "main.css": "/Mdev-ReactWebPortofolio/static/css/main.b3c418aa.css",
+    "main.js": "/Mdev-ReactWebPortofolio/static/js/main.41dedb3c.js",
     "static/media/testimonial3.png": "/Mdev-ReactWebPortofolio/static/media/testimonial3.1843ed4d8d7e5a2b8283.png",
     "static/media/about.png": "/Mdev-ReactWebPortofolio/static/media/about.5cc0998cf59926a05b4c.png",
     "static/media/mahenn.png": "/Mdev-ReactWebPortofolio/static/media/mahenn.5cc0998cf59926a05b4c.png",
@@ -13,11 +13,11 @@
     "static/media/CVMahenDev.pdf": "/Mdev-ReactWebPortofolio/static/media/CVMahenDev.bf5e610bd153b5705a47.pdf",
     "static/media/testimonial1.png": "/Mdev-ReactWebPortofolio/static/media/testimonial1.d4e0ddee2e19f73d74f3.png",
     "index.html": "/Mdev-ReactWebPortofolio/index.html",
-    "main.efa66316.css.map": "/Mdev-ReactWebPortofolio/static/css/main.efa66316.css.map",
-    "main.4054b02b.js.map": "/Mdev-ReactWebPortofolio/static/js/main.4054b02b.js.map"
+    "main.b3c418aa.css.map": "/Mdev-ReactWebPortofolio/static/css/main.b3c418aa.css.map",
+    "main.41dedb3c.js.map": "/Mdev-ReactWebPortofolio/static/js/main.41dedb3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.efa66316.css",
-    "static/js/main.4054b02b.js"
+    "static/css/main.b3c418aa.css",
+    "static/js/main.41dedb3c.js"
   ]
 }
