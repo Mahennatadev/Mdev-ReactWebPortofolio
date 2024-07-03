@@ -31,23 +31,22 @@ const Services = () => {
 
               <h3 className="services__modal-title">Product Designer</h3>
               <p className="services__modal-description">
-                provide the best service with 2 years of experience and provide
-                the best service for companies and clients.
+              As a Product Designer with 2 years of experience, I am dedicated to delivering exceptional digital products that meet both business objectives and user needs. My services include:
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info"> Website Development.</p>
+                  <p className="services__modal-info">User Research and Analysis.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">SEO Optimization.</p>
+                  <p className="services__modal-info">Wireframing and Prototyping.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Website Maintenance.</p>
+                  <p className="services__modal-info">Usability Testing.</p>
                 </li>
 
                 <li className="services__modal-service">
@@ -60,6 +59,11 @@ const Services = () => {
                   <p className="services__modal-info">
                     Performance Optimization.
                   </p>
+                </li>
+
+                <li className="services__modal-service">
+                  <i className="uil uil-check-circle services__modal-icon"></i>
+                  <p className="services__modal-info">Cross-functional Collaboration.</p>
                 </li>
               </ul>
             </div>
@@ -83,35 +87,32 @@ const Services = () => {
 
               <h3 className="services__modal-title">UI/UX Designer</h3>
               <p className="services__modal-description">
-                provide the best service with 2 years of experience and provide
-                the best service for companies and clients.
+              As a UI/UX Designer, I specialize in creating intuitive and engaging user experiences that drive user satisfaction and retention. My services include:
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info"> Website Development.</p>
+                  <p className="services__modal-info">User Interface Design.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">SEO Optimization.</p>
+                  <p className="services__modal-info">User Experience Design.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Website Maintenance.</p>
+                  <p className="services__modal-info">Interaction Design.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Responsive Design.</p>
+                  <p className="services__modal-info">Information Architecture.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    Performance Optimization.
-                  </p>
+                  <p className="services__modal-info">Accessibility Design.</p>
                 </li>
               </ul>
             </div>
@@ -135,35 +136,32 @@ const Services = () => {
 
               <h3 className="services__modal-title">Visual Designer</h3>
               <p className="services__modal-description">
-                provide the best service with 2 years of experience and provide
-                the best service for companies and clients.
+              As a Visual Designer, I focus on crafting visually stunning designs that effectively communicate your brand's message and engage your audience. My services include:
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info"> Website Development.</p>
+                  <p className="services__modal-info">Graphic Design.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">SEO Optimization.</p>
+                  <p className="services__modal-info">Branding and Identity.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Website Maintenance.</p>
+                  <p className="services__modal-info">Visual Storytelling.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Responsive Design.</p>
+                  <p className="services__modal-info">Typography.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    Performance Optimization.
-                  </p>
+                  <p className="services__modal-info">Color Theory.</p>
                 </li>
               </ul>
             </div>

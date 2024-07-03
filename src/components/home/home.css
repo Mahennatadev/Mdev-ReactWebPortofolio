@@ -32,7 +32,7 @@
 .home__hand {
   width: 38px;
   height: 38px;
-  margin-left: 0.4rem;
+  margin-left: 0.75rem;
 }
 
 .home__subtitle {
@@ -59,7 +59,7 @@
 }
 
 .home__img {
-  background: url(../../assets/mahenn.png);
+  background: url(../../assets/EditedPhotoTwo.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
