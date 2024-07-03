@@ -17,9 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            As a front end developer, I love to create web pages with user
-            experience in mind, I have completed many projects as a front end
-            developer and I love to keep learning and deepening my skills.
+          I am Wahyu Nata Mahendra, a passionate and experienced web developer with a background in Informatics Engineering from Telkom University Bandung. I enjoy designing and developing responsive and engaging websites, always staying up to date with the latest trends and technologies in the world of front-end development.
           </p>
 
           <a download="" href={CV} className="button button--flex">

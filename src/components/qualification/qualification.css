@@ -60,6 +60,12 @@
     margin-bottom: var(--mb-1);
 }
 
+.qualification__GPA {
+    display: inline-block;
+    font-size: var(--small-font-size);
+    margin-bottom: var(--mb-1);
+}
+
 .qualification__calender {
     font-size: var(--small-font-size);
 }

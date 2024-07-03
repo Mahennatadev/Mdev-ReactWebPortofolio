@@ -30,6 +30,7 @@ const Qualification = () => {
                 <div>
                   <h3 className="qualification__title">Informatics Engineering</h3>
                   <span className="qualification__subtitle">Telkom University, Bandung</span>
+                  <span className="qualification__GPA">GPA: 3.85/4.00</span>
                   <div className="qualification__calender">
                     <i className="uil uil-calendar-alt"></i> 2021 - Present
                   </div>
