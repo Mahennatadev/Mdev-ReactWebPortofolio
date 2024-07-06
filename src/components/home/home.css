@@ -30,8 +30,8 @@
 }
 
 .home__hand {
-  width: 38px;
-  height: 38px;
+  width: 60px;
+  height: 60px;
   margin-left: 0.75rem;
 }
 
@@ -59,7 +59,7 @@
 }
 
 .home__img {
-  background: url(../../assets/EditedPhotoTwo.png);
+  background: url(../../assets/EditedPhotoOne.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
