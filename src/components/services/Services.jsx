@@ -17,7 +17,7 @@ const Services = () => {
         <div className="services__content">
           <div>
             <i className="uil uil-web-grid services__icon"></i>
-            <h3 className="services__title">Product <br /> Designer</h3>
+            <h3 className="services__title">Web <br /> Developer</h3>
           </div>
 
           <span className="services__button" onClick={() => toggleTab(1)}>
@@ -29,41 +29,41 @@ const Services = () => {
             <div className="services__modal-content">
               <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-              <h3 className="services__modal-title">Product Designer</h3>
+              <h3 className="services__modal-title">Web Developer</h3>
               <p className="services__modal-description">
-              As a Product Designer with 2 years of experience, I am dedicated to delivering exceptional digital products that meet both business objectives and user needs. My services include:
+              As a Web Developer with 2 years of experience, I am dedicated to building responsive, fast, and user-friendly web applications. My services include:
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">User Research and Analysis.</p>
+                  <p className="services__modal-info">Frontend Development with HTML, CSS, and JavaScript.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Wireframing and Prototyping.</p>
+                  <p className="services__modal-info">Development using React.js and Tailwind CSS.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Usability Testing.</p>
+                  <p className="services__modal-info">Optimization of website performance and speed.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Responsive Design.</p>
+                  <p className="services__modal-info">Database management with MySQL and MongoDB.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Performance Optimization.
+                    API integration and backend development with Node.js.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Cross-functional Collaboration.</p>
+                  <p className="services__modal-info">UI/UX enhancement with interface design best practices.</p>
                 </li>
               </ul>
             </div>

@@ -32,7 +32,7 @@ const Qualification = () => {
                   <span className="qualification__subtitle">Telkom University, Bandung</span>
                   <span className="qualification__GPA">GPA: 3.85/4.00</span>
                   <div className="qualification__calender">
-                    <i className="uil uil-calendar-alt"></i> 2021 - Present
+                    <i className="uil uil-calendar-alt"></i> 2021 - 2025
                   </div>
                 </div>
 
@@ -54,7 +54,7 @@ const Qualification = () => {
                   <h3 className="qualification__title">Senior High School</h3>
                   <span className="qualification__subtitle">Al-Kautsar, Bandarlampung</span>
                   <div className="qualification__calender">
-                    <i className="uil uil-calendar-alt"></i> 2023 - Present
+                    <i className="uil uil-calendar-alt"></i> 2018 - 2021
                   </div>
                 </div>
               </div>

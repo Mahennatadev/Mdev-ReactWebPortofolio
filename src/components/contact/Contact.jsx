@@ -41,13 +41,13 @@ const Contact = () => {
             </div>
 
             <div className="contact__card">
-              <i className="bx bxl-whatsapp contact__card-icon"></i>
+              <i className="bx bxl-linkedin-square contact__card-icon"></i>
 
-              <h3 className="contact__card-title">WhatsApp</h3>
-              <span className="contact__card-data">+62 823-7369-2957</span>
+              <h3 className="contact__card-title">LinkedIn</h3>
+              <span className="contact__card-data">Wahyu Nata Mahendra</span>
 
               <a
-                href="https://wa.me/+6282373692957"
+                href="https://www.linkedin.com/in/wahyunatamahendra"
                 className="contact__button"
                 target="_blank" rel="noopener noreferrer"
               >
@@ -57,13 +57,13 @@ const Contact = () => {
             </div>
 
             <div className="contact__card">
-              <i className="bx bxl-facebook contact__card-icon"></i>
+              <i className="bx bxl-whatsapp contact__card-icon"></i>
 
-              <h3 className="contact__card-title">Facebook</h3>
-              <span className="contact__card-data">Wahyu Nata Mahendra</span>
+              <h3 className="contact__card-title">WhatsApp</h3>
+              <span className="contact__card-data">+62 823-7369-2957</span>
 
               <a
-                href="https://www.facebook.com/profile.php?id=100083156835096"
+                href="https://wa.me/+6282373692957"
                 className="contact__button"
                 target="_blank" rel="noopener noreferrer"
               >
