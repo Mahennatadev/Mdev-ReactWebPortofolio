@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/Mdev-ReactWebPortofolio/static/css/main.7f552f8c.css",
-    "main.js": "/Mdev-ReactWebPortofolio/static/js/main.80b70af8.js",
-    "static/media/testimonial3.png": "/Mdev-ReactWebPortofolio/static/media/testimonial3.1843ed4d8d7e5a2b8283.png",
+    "main.css": "/Mdev-ReactWebPortofolio/static/css/main.092ad46f.css",
+    "main.js": "/Mdev-ReactWebPortofolio/static/js/main.cba4d251.js",
+    "static/media/formal.jpg": "/Mdev-ReactWebPortofolio/static/media/formal.0c21b5a91c46a68f20a9.jpg",
     "static/media/work2.jpg": "/Mdev-ReactWebPortofolio/static/media/work2.3b61865f6d3ff9bea5ce.jpg",
     "static/media/work4.jpg": "/Mdev-ReactWebPortofolio/static/media/work4.07bb91e160647101d05b.jpg",
     "static/media/EditedPhotoOne.png": "/Mdev-ReactWebPortofolio/static/media/EditedPhotoOne.3080b63f152e8ed5986e.png",
     "static/media/work1.jpg": "/Mdev-ReactWebPortofolio/static/media/work1.5098e575d2deb3ee12b1.jpg",
+    "static/media/work5.jpg": "/Mdev-ReactWebPortofolio/static/media/work5.c5b9b1d154c0987da13b.jpg",
+    "static/media/Nata-resume.pdf": "/Mdev-ReactWebPortofolio/static/media/Nata-resume.186f859a268bc6bd22d3.pdf",
     "static/media/testimonial2.png": "/Mdev-ReactWebPortofolio/static/media/testimonial2.8c28987e64953c37fdf4.png",
     "static/media/work3.jpg": "/Mdev-ReactWebPortofolio/static/media/work3.3b07b3326e5753cb6b6f.jpg",
-    "static/media/CVMahenDev.pdf": "/Mdev-ReactWebPortofolio/static/media/CVMahenDev.bf5e610bd153b5705a47.pdf",
     "static/media/testimonial1.png": "/Mdev-ReactWebPortofolio/static/media/testimonial1.d4e0ddee2e19f73d74f3.png",
+    "static/media/testimonial5.jpg": "/Mdev-ReactWebPortofolio/static/media/testimonial5.f5adfb6f109ad5b01570.jpg",
+    "static/media/testimonial3.jpg": "/Mdev-ReactWebPortofolio/static/media/testimonial3.d77c6bb5c58789cc27e8.jpg",
     "index.html": "/Mdev-ReactWebPortofolio/index.html",
-    "main.7f552f8c.css.map": "/Mdev-ReactWebPortofolio/static/css/main.7f552f8c.css.map",
-    "main.80b70af8.js.map": "/Mdev-ReactWebPortofolio/static/js/main.80b70af8.js.map"
+    "main.092ad46f.css.map": "/Mdev-ReactWebPortofolio/static/css/main.092ad46f.css.map",
+    "main.cba4d251.js.map": "/Mdev-ReactWebPortofolio/static/js/main.cba4d251.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f552f8c.css",
-    "static/js/main.80b70af8.js"
+    "static/css/main.092ad46f.css",
+    "static/js/main.cba4d251.js"
   ]
 }
