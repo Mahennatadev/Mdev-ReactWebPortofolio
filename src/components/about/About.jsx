@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/EditedPhotoOne.png";
+import AboutImg from "../../assets/formal.jpg";
 import CV from "../../assets/Resume-Nata.pdf";
 import Info from "./Info";
 
@@ -17,7 +17,14 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-          I am Wahyu Nata Mahendra, a passionate and experienced web developer with a background in Informatics Engineering from Telkom University Bandung. I enjoy designing and developing responsive and engaging websites, always staying up to date with the latest trends and technologies in the world of front-end development.
+            I am Wahyu Nata Mahendra, a Web Developer, UI/UX Designer, Full
+            Stack Developer, and Data Scientist with a background in Informatics
+            Engineering from Telkom University Bandung. Experienced in
+            developing responsive, intuitive, and high-performance websites, I
+            combine expertise in front-end, full-stack development, UI/UX
+            design, and data science to create innovative digital solutions.
+            Always open for collaboration, I am ready to deliver impactful and
+            user-oriented digital experiences.
           </p>
 
           <a download="" href={CV} className="button button--flex">

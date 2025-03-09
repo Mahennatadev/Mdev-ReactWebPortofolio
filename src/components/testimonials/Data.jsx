@@ -1,6 +1,8 @@
 import Image1 from "../../assets/testimonial1.png";
 import Image2 from "../../assets/testimonial2.png";
-import Image3 from "../../assets/testimonial3.png";
+import Image3 from "../../assets/testimonial3.jpg";
+import Image4 from "../../assets/testimonial4.jpg";
+import Image5 from "../../assets/testimonial5.jpg";
 
 export const Data = [
     {
@@ -20,5 +22,17 @@ export const Data = [
         image: Image3,
         title: "Kirana Octaviana Putri",
         description: "Wahyu Nata Mahendra has demonstrated outstanding front-end development skills on our projects. Their proficiency in HTML, CSS, and JavaScript, combined with a keen eye for design, resulted in seamless and engaging user experiences. They are reliable, innovative, and always willing to go the extra mile to ensure project success.",
+    },
+    {
+        id: 4,
+        image: Image4,
+        title: "M Rafi Athallah",
+        description: "Wahyu Nata Mahendra is a reliable Full Stack Developer. In the project we worked on together, he was not only able to build an attractive interface, but also develop a structured and easy-to-understand backend system. Every challenge that arises is always met with the right solution, so that the project can run smoothly and efficiently."
+    },
+    {
+        id: 5,
+        image: Image5,
+        title: "Mario Bernardino Surexi Keubapa",
+        description: "Wahyu Nata Mahendra has a deep understanding of data science. In the project we worked on, he managed to process data accurately and present the analysis results in an easy-to-understand way. His expertise in building predictive models is very helpful in decision making. In addition, he is always open to discussions and innovative solutions, making him an invaluable colleague."
     }
 ]

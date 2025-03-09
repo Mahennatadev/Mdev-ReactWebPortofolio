@@ -16,7 +16,7 @@ const Services = () => {
       <div className="services__container container grid">
         <div className="services__content">
           <div>
-            <i className="uil uil-web-grid services__icon"></i>
+            <i className="uil uil-arrow services__icon"></i>
             <h3 className="services__title">Web <br /> Developer</h3>
           </div>
 
@@ -41,7 +41,7 @@ const Services = () => {
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Development using React.js and Tailwind CSS.</p>
+                  <p className="services__modal-info">Development using the requested Framework.</p>
                 </li>
 
                 <li className="services__modal-service">
@@ -51,7 +51,7 @@ const Services = () => {
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Database management with MySQL and MongoDB.</p>
+                  <p className="services__modal-info">Database management.</p>
                 </li>
 
                 <li className="services__modal-service">
@@ -72,7 +72,7 @@ const Services = () => {
 
         <div className="services__content">
           <div>
-            <i className="uil uil-arrow services__icon"></i>
+            <i className="uil uil-web-grid services__icon"></i>
             <h3 className="services__title">UI/UX <br /> Designer</h3>
           </div>
 
@@ -121,8 +121,8 @@ const Services = () => {
 
         <div className="services__content">
           <div>
-            <i className="uil uil-edit services__icon"></i>
-            <h3 className="services__title">Visual <br /> Designer</h3>
+            <i className="uil uil-chart services__icon"></i>
+            <h3 className="services__title">Data <br /> Scientist</h3>
           </div>
 
           <span onClick={() => toggleTab(3)} className="services__button">
@@ -134,34 +134,34 @@ const Services = () => {
             <div className="services__modal-content">
               <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-              <h3 className="services__modal-title">Visual Designer</h3>
+              <h3 className="services__modal-title">Data Scientist</h3>
               <p className="services__modal-description">
-              As a Visual Designer, I focus on crafting visually stunning designs that effectively communicate your brand's message and engage your audience. My services include:
+              As a Data Scientist, I focus on analyzing and processing data to generate valuable insights and support data-driven decision making. My services include:
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Graphic Design.</p>
+                  <p className="services__modal-info">Data Analytics and Visualization.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Branding and Identity.</p>
+                  <p className="services__modal-info">Machine Learning and Predictive Models.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Visual Storytelling.</p>
+                  <p className="services__modal-info">Big Data Processing.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Typography.</p>
+                  <p className="services__modal-info">Pattern Mining and Insights from Data.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Color Theory.</p>
+                  <p className="services__modal-info">Statistical Modeling and Optimization.</p>
                 </li>
               </ul>
             </div>
